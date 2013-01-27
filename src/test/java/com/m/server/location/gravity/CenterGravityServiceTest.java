@@ -5,6 +5,8 @@ import java.util.List;
 
 import org.junit.Test;
 
+import com.m.server.location.randomPointModel.Point;
+
 
 public class CenterGravityServiceTest {
 

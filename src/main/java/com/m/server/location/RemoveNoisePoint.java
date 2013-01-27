@@ -7,7 +7,7 @@ import java.util.Map;
 
 import org.junit.Test;
 
-import com.m.server.location.gravity.Point;
+import com.m.server.location.randomPointModel.Point;
 
 /**
  * 
